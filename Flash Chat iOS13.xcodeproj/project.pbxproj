@@ -90,10 +90,6 @@
 		0B628175235DEE8100E35CAF /* Flash Chat iOS13 */ = {
 			isa = PBXGroup;
 			children = (
-				AF49D0842805F1F5002C9335 /* Screenshot3.png */,
-				AF49D0832805F1F5002C9335 /* Screenshot4.png */,
-				AF49D0852805F1F5002C9335 /* Screenshot1.png */,
-				AF49D0862805F1F5002C9335 /* Screenshot2.png */,
 				AF49D0822805F1CB002C9335 /* PreviewApp */,
 				0B628176235DEE8100E35CAF /* AppDelegate.swift */,
 				0B628178235DEE8100E35CAF /* SceneDelegate.swift */,
@@ -149,6 +145,10 @@
 		AF49D0822805F1CB002C9335 /* PreviewApp */ = {
 			isa = PBXGroup;
 			children = (
+				AF49D0842805F1F5002C9335 /* Screenshot3.png */,
+				AF49D0832805F1F5002C9335 /* Screenshot4.png */,
+				AF49D0852805F1F5002C9335 /* Screenshot1.png */,
+				AF49D0862805F1F5002C9335 /* Screenshot2.png */,
 			);
 			path = PreviewApp;
 			sourceTree = "<group>";
